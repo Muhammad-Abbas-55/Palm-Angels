@@ -12,6 +12,7 @@ A Laravel-based web application for managing and displaying products, built with
 - Image carousel per product
 - Stored images in `storage/app/public`
 - Tailwind CSS + Bootstrap styling
+- admin login- http://127.0.0.1:8000/login
 
 ---
 
